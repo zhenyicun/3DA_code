@@ -1,6 +1,5 @@
 
-import os,sys
-sys.path.append('/home/zhenyicun/AnDA/satellite/codes/')
+import os
 import pylab
 import pickle
 import numpy as np
