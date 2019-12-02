@@ -1,6 +1,7 @@
 🌍️DESCRIPTION OF FOLDERS:
 /data/OCCIPUT/        : the extracted 50-member OCCIPUT simulation at GoM
-/data/obs/            : the extracted real tracks position and time of the altimeters in 2004. It also saves the truth and the SSH along-tracks after you run get_obs.py
+/data/obs/            : the extracted real tracks position and time of the altimeters in 2004. 
+                        It also saves the truth and the SSH along-tracks after you run get_obs.py
 /data/catalog/        : is used to save the catalog for AnDA
 /data/results/AnDA/   : is used to save the results of the last run of AnDA 
 /data/results/OI/     : is used to save the results of the last run of OI
@@ -10,10 +11,10 @@
 
 
 🌍️DESCRIPTION OF EXISTING RESULTS:
-/data/results/AnDA_k1000_ROI10  : saves the result of AnDA where k=1000, and spatial localization radius = 10 degress 
-/data/results/OI_6              : saves the result of OI where temporal correlation scale = 6 days 
-/data/results/OI_10             : saves the result of OI where temporal correlation scale = 10 days 
-/data/results/OI_15             : saves the result of OI where temporal correlation scale = 15 days 
+/data/results/AnDA_k1000_ROI10/  : the result of AnDA where k=1000, and spatial localization radius = 10 degress 
+/data/results/OI_6/              : the result of OI where temporal correlation scale = 6 days 
+/data/results/OI_10/             : the result of OI where temporal correlation scale = 10 days 
+/data/results/OI_15/             : the result of OI where temporal correlation scale = 15 days 
 
 
 
